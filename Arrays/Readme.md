@@ -1,5 +1,13 @@
 # Arrays 
 Arrays are a collection of related data items stored in a contiguous block of memory with a common name, and are indexed or accessed by their position in the block.
+## Java 
+```
+Write the Sampe Code for Java here 
+```
+## Python
+```
+desired_shape = tuple(input("Enter the shape of the array to be formed : "))
+```
 # Introduction to Arrays 
 Arrays are a data structure that allows storing a collection of elements of the same data type. They provide an efficient way to access and manipulate multiple values through a single variable name.
 # Memmory Managmnent
