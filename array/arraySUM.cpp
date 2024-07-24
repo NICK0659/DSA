@@ -1,5 +1,7 @@
+
 #include<iostream>
 #include<math.h>
+#include<vector>
 
 using namespace std;
 
@@ -7,8 +9,7 @@ int ArraySum(int arr[],int size){
     int n;
     int sum = 0;
     for(n=0;n<size;n++){
-        sum = sum + arr[n];}
-
+        sum = sum + arr[n];}  
     return sum;
 }
 
