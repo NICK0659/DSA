@@ -1,5 +1,5 @@
 // getting pivot from the rotated array
-// https://leetcode.com/problems/find-pivot-index/
+//find-pivot-index/
 
 #include <bits/stdc++.h>
 using namespace std;
